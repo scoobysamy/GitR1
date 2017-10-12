@@ -1,4 +1,4 @@
-# GitR1
+# Git R2 sur B1 modifié (C5)
 TP Git Distant R1
 
 # Blabla
